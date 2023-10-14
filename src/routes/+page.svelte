@@ -1,12 +1,5 @@
-<h1 class="text-5xl text-center">Welcome to SvelteKit</h1>
-
-<div class="card card-compact w-96 bg-base-100 shadow-xl">
-    <figure><img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" /></figure>
-    <div class="card-body">
-      <h2 class="card-title">Shoes!</h2>
-      <p>If a dog chews shoes whose shoes does he choose?</p>
-      <div class="card-actions justify-end">
-        <button class="btn btn-primary">Buy Now</button>
-      </div>
-    </div>
-  </div>
+<div class="lg:min-h-3/5 flex-col text-center justify-center">
+    <h1 class="lg:text-5xl text-4xl text-center font-bold p-3 lg:mt-12">World's most useless <span class="text-accent">programmer(?)</span> blog</h1>
+    <p class="lg:text-2xl">No, seriously, you are wasting your time</p>
+    <p class="mt-1 text-sm lg:text-m">Don't say I didn't warn you</p>
+</div>
